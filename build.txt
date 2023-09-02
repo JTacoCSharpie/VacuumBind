@@ -1,0 +1,6 @@
+displayName = VacBinds
+author = Tacomancer
+version = 1.0.0
+includeSource = true
+homepage = 
+buildIgnore = .vs\*, .git\*, ignore\*, .gitignore, .gitattributes, *.MD, *.csproj, *.user, obj\*, bin\*, *.sln

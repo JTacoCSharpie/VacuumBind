@@ -1,0 +1,17 @@
+﻿[i]VacBinds is a world/server-wide item vacuum mod[/i]
+
+Tap a keybind or set it to one of the automatic 
+modes and gather up any loose items in world with 
+no laggy item vortexes or out-of-range items.
+
+
+-[b]Features[/b]-> [list]
+3 Modes - Manual, Auto, & Drop Count;
+[*] Manual: Press of a button
+[*] Auto: Every X second interval
+[*] Drop Count: Every X seconds if more than X items are found
+[/list]
+
+-[b]Changelog[/b]->
+1.0.0 Release:
+* Released
