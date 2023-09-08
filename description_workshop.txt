@@ -13,5 +13,7 @@ no laggy item vortexes or out-of-range items.
 [/list]
 
 -[b]Changelog[/b]->
-1.0.0 Release:
-* Released
+See the workshop page's [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2906022991]Change Notes[/url] or the in-game description.
+
+
+Older versions are also available through branches on [url=https://github.com/JTacoCSharpie/VacuumBind]Github[/url]
